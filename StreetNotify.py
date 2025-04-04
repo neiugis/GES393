@@ -2,7 +2,7 @@
 import arcpy
 
 # set workspace environment
-arcpy.env.workspace = r"C:\Users\tliu1\Documents\ArcGIS\Packages\GES393_Lab5_617cf7\commondata\part2"
+arcpy.env.workspace = r"C:\Users\tliu1\Documents\ArcGIS\Packages\GES393_Lab8_0409bb\commondata\part2"
 
 # Local variables
 streetLayer = arcpy.GetParameterAsText(0)   
